@@ -565,7 +565,7 @@ padding-left: 100px;
 
 .games-paragraph {
     text-align: center;
- margin-right: 50px;
+    margin-right: 50px;
 }
 
 /* Designers section */
@@ -612,7 +612,6 @@ margin-left: 70px;
  .des-img{
     width:20%;
     border-radius:50%;
-  
     margin-top: 30px;
    }
    #dh1{
